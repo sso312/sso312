@@ -1,16 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SoHyun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<!--
-**sso312/sso312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![sso's GitHub stats](https://github-readme-stats.vercel.app/api?username=sso312&show_icons=true&theme=flag-india)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsso312&count_bg=%23987BE2&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
